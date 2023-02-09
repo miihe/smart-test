@@ -1,0 +1,1 @@
+# After build and run app, just write "go" at console to do calculate.
